@@ -46,4 +46,5 @@ Import the solution generated in the previous step into your environment.
 
 ## Configure
 
+
 Follow this [documentation](https://docs.microsoft.com/en-us/powerapps/developer/component-framework/add-custom-controls-to-a-field-or-entity#add-a-code-component-to-a-field) to configure the control on a field.
